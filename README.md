@@ -24,8 +24,8 @@
 
 ```bash
 > pkg install git
-> git clone https://github.com/mrfzvx12/lexav3
-> cd lexav3
+> https://github.com/Farissami/BotFooryV6.git
+> cd BotFooryV6
 > bash install.sh
 > npm start
 ```
