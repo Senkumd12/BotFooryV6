@@ -54,5 +54,5 @@
   </details>
 
   <details close="close">
-  <summary>MENU NAOMI</summary>
+ 
 
