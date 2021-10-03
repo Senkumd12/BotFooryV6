@@ -34,7 +34,7 @@
 </details>
 
 <details open="open">
-  <summary>CONTACTS</summary>
+  <summary>جهات الاتصال</summary>
 
 ### تجربة البوت
 إذا كنت في شك ، قبل تثبيت Naomi ، جرب الروبوت هنا أولاً
