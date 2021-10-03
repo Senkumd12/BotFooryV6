@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Farissami"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Farissami"><img title="Farissami" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
 </p>
 
 
